@@ -1,7 +1,4 @@
 /*
- * -->> Main
- * Exercise7.java
- * @authors mahl && mebs
  * @version 1.0
  */
 
@@ -9,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exercise7 {
+public class stockManager {
     private static final Scanner sc = new Scanner(System.in);
     private static int select = 0;
 

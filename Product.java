@@ -1,7 +1,4 @@
 /*
- * -->> Product class
- * Exercise7.java
- * @authors mahl && mebs
  * @version 1.0
  */
 
